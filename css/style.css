@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+}
+
+
+.contenedor{
+position: relative;
+text-align: center;
+margin-top: 200px;
+width: 100%;
+
+}
+
+
+h2{
+    font-size: 35px;
+}
+
+
+
+.button{
+ width: 80px;
+ height: 63px;
+ border-radius: 50px;
+ border: none;
+ font-size: 26px;
+ margin-left: 10px;
+
+
+}
+
+button:hover{
+   background-color: rgb(110, 107, 107);
+ 
+}
